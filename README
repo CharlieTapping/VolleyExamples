@@ -1,0 +1,1 @@
+Networking should be performed in Services as to avoid configuration changes, components shouldnt break encapsulation. Volley runs off of main thread.
